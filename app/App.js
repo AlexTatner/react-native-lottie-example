@@ -4,8 +4,9 @@ import {
   View,
   Animated,
 } from 'react-native';
+import { List, ListItem } from 'react-native-elements'
 import Animation from 'lottie-react-native';
-import {Animations} from '../animations';
+import { Animations } from '../animations';
 
 const styles = StyleSheet.create({
   container: {
@@ -30,8 +31,19 @@ export default class App extends Component {
   }
 
   render() {
+    console.log(Object.keys(Animations));
     return (
       <View style={styles.container}>
+        <List>
+          {
+            Object.keys(Animations).map((l) => (
+              <ListItem
+                key={l}
+                title={l}
+              />
+            ))
+          }
+        </List>
         <Animation
           style={{
             width: 400,

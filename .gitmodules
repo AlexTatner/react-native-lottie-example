@@ -1,0 +1,6 @@
+[submodule "lottie-react-native"]
+	path = lottie-react-native
+	url = https://github.com/airbnb/lottie-react-native
+[submodule "lottie-ios"]
+	path = lottie-ios
+	url = https://github.com/airbnb/lottie-ios

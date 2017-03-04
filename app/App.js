@@ -5,12 +5,11 @@ import {
   Animated,
 } from 'react-native';
 import Animation from 'lottie-react-native';
-import HamburgerArrow from '../animations/HamburgerArrow.json';
+import {Animations} from '../animations';
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#F5FCFF',
   },
 });
 
@@ -38,7 +37,7 @@ export default class App extends Component {
             width: 400,
             height: 400,
           }}
-          source={HamburgerArrow}
+          source={Animations.LottieLogo2}
           progress={this.state.progress}
         />
       </View>

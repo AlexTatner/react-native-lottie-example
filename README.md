@@ -1,6 +1,6 @@
 # react-native-lottie-example
 
-A simple example to show how lottie animations
+A simple example to show lottie animations
 
 ## screenshots
 ![Image of application](./screenshots/listOfAnimations.png)

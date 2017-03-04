@@ -79,7 +79,7 @@ export default class App extends Component {
 
   render() {
     const Navigator = StackNavigator({
-      Home: { screen: ListOfAnimations },
+      ListOfAnimations: { screen: ListOfAnimations },
       Animation: { screen: AnimationsScreen },
     });
 

@@ -2483,6 +2483,22 @@ loose-envify@^1.0.0, loose-envify@^1.1.0:
   dependencies:
     js-tokens "^3.0.0"
 
+lottie-ios@^1.0.2:
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/lottie-ios/-/lottie-ios-1.5.1.tgz#41a55481fa82287fb8390b664b7b1f7d8a74cfb5"
+
+"lottie-ios@git://github.com/airbnb/lottie-ios.git":
+  version "1.5.1"
+  resolved "git://github.com/airbnb/lottie-ios.git#20b94330121ce4a33e1fa50897552390580933aa"
+
+"lottie-react-native@git://github.com/airbnb/lottie-react-native.git":
+  version "1.0.6"
+  resolved "git://github.com/airbnb/lottie-react-native.git#b2dea1a3cef4ca6c1dc19518a9694cc0f742a7f7"
+  dependencies:
+    invariant "^2.2.2"
+    lottie-ios "^1.0.2"
+    react-native-safe-module "^1.1.0"
+
 lru-cache@^4.0.1:
   version "4.0.2"
   resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-4.0.2.tgz#1d17679c069cda5d040991a09dbc2c0db377e55e"
@@ -2976,7 +2992,7 @@ react-native-elements@^0.9.7:
     react-native-side-menu "^0.20.1"
     react-native-tab-navigator "^0.3.3"
 
-react-native-safe-module@^1.1.1:
+react-native-safe-module@^1.1.0, react-native-safe-module@^1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/react-native-safe-module/-/react-native-safe-module-1.1.1.tgz#c3eb1d2030661676b075ba8d12c305a31b1d8fb4"
   dependencies:

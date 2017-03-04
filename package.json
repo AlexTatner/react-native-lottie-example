@@ -9,6 +9,8 @@
 	"dependencies": {
 		"babel-plugin-module-resolver": "^2.5.0",
 		"invariant": "^2.2.2",
+		"lottie-ios": "git://github.com/airbnb/lottie-ios.git",
+		"lottie-react-native": "git://github.com/airbnb/lottie-react-native.git",
 		"react": "~15.4.1",
 		"react-native": "0.42.0",
 		"react-native-elements": "^0.9.7",

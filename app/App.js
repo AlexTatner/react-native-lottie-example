@@ -31,7 +31,6 @@ export default class App extends Component {
   }
 
   render() {
-    console.log(Object.keys(Animations));
     return (
       <View style={styles.container}>
         <List>

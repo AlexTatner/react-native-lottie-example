@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "057B0EDB0EAB480F5F7ABA32823CA194729B2331",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A2584A8B7D20BB98C7B4D5E4397104A60835D6EA" : 9223372036854775807,
+    "057B0EDB0EAB480F5F7ABA32823CA194729B2331" : 9223372036854775807,
+    "63600FF07CAC4A2B521A9BCC4448135ABF3B8CB3" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6D6842B6-5199-4D6F-8163-7C55855C3216",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A2584A8B7D20BB98C7B4D5E4397104A60835D6EA" : "lottie_contrib\/lottie-react-native\/",
+    "057B0EDB0EAB480F5F7ABA32823CA194729B2331" : "lottie_contrib\/",
+    "63600FF07CAC4A2B521A9BCC4448135ABF3B8CB3" : "lottie_contrib\/lottie-ios\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "lottie_contrib",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/lottie_contrib.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/g3r4n\/react-native-lottie-contrib",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "057B0EDB0EAB480F5F7ABA32823CA194729B2331"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/airbnb\/lottie-ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "63600FF07CAC4A2B521A9BCC4448135ABF3B8CB3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/airbnb\/lottie-react-native",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A2584A8B7D20BB98C7B4D5E4397104A60835D6EA"
+    }
+  ]
+}

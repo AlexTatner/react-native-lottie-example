@@ -8,7 +8,7 @@ import {
 import { List, ListItem } from 'react-native-elements';
 import { StackNavigator } from 'react-navigation';
 import Animation from 'lottie-react-native';
-import { Animations } from '../animations';
+import { Animations } from './Animations';
 
 const styles = StyleSheet.create({
   container: {
